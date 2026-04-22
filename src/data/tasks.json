@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "Build portfolio website",
+    "description": "Create a personal portfolio using React and Tailwind CSS",
+    "status": "pending",
+    "priority": "high"
+  },
+  {
+    "id": 2,
+    "title": "Complete Next.js assignment",
+    "description": "Finish assignment 8 and submit before deadline",
+    "status": "in-progress",
+    "priority": "high"
+  },
+  {
+    "id": 3,
+    "title": "Practice DSA problems",
+    "description": "Solve at least 5 problems on arrays and strings",
+    "status": "pending",
+    "priority": "medium"
+  },
+  {
+    "id": 4,
+    "title": "Record vocal practice",
+    "description": "Practice and record 2 deathcore vocal sessions",
+    "status": "pending",
+    "priority": "medium"
+  },
+  {
+    "id": 5,
+    "title": "Apply for internships",
+    "description": "Apply to at least 3 MERN stack developer roles",
+    "status": "pending",
+    "priority": "high"
+  }
+]
